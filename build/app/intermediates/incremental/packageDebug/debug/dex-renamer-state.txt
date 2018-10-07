@@ -1,0 +1,4 @@
+#Thu Oct 04 03:31:59 IST 2018
+base.0=/home/piyushonkar/Downloads/flutter-login-ui-master/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
